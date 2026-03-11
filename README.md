@@ -21,4 +21,4 @@ Este projeto consiste em uma interface gráfica desenvolvida em Python para comu
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/vitornana/FlukeProcessInstruments_T40.git](https://github.com/vitornana/FlukeProcessInstruments_T40.git)
